@@ -26,7 +26,7 @@ O sistema solicita ao usuário uma letra, seja ela minúscula ou maiúscula. Ao 
 O sistema solicita ao usuário um número inteiro. Ao receber o número, o sistema verifica se o número é par ou ímpar. Caso o número informado seja par, ele é premiado e o usuário recebe a mensagem informando que ganhou R$100,00. 
 
 Confira aqui imagens do projeto: 
-<img src="/assets/img/arquivo.gif.gif">
+<img src="/assets/img/arquivo.gif">
 
 ## Requisitos do projeto
 > *Clique na seta para ver a lista de requisitos que recebemos para desenvolver o projeto*
