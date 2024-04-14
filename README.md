@@ -26,7 +26,7 @@ O sistema solicita ao usuário uma letra, seja ela minúscula ou maiúscula. Ao 
 O sistema solicita ao usuário um número inteiro. Ao receber o número, o sistema verifica se o número é par ou ímpar. Caso o número informado seja par, ele é premiado e o usuário recebe a mensagem informando que ganhou R$100,00. 
 
 Confira aqui imagens do projeto: 
-![](/assets/img/arquivo.gif)
+https://imgur.com/a/WFlYTnU
 
 ## Requisitos do projeto
 > *Clique na seta para ver a lista de requisitos que recebemos para desenvolver o projeto*
@@ -82,3 +82,5 @@ premiar jogadores que digitarem um número ímpar.
 reais.”. Caso o usuário digite um número ímpar, imprima a mensagem: “Que pena!
 O número digitado é ímpar e a premiação foi para números pares.”.
 </details>
+
+As demais informações sobre a construção do projeto você pode conferir no repositório LotoFacil, em sua primeira versão
